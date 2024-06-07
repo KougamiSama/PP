@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="drop_table_exists_users">DROP TABLE EXISTS users</string>
+</resources>
